@@ -1,0 +1,5 @@
+配置Id	配置值
+ConfigId	ConfigValue
+int	string
+9090	中文
+9091	{"name":"xuzw", "power":999}
